@@ -1,12 +1,12 @@
 # 📽️ Movie Recommender System (Content-Based)
-📌 Project Overview
+### 📌 Project Overview
 
 This project implements a content-based movie recommender system using the TMDB 5000 Movies dataset from Kaggle.
 The system recommends movies based on similarity in content features such as genres, keywords, cast, and crew.
 
 The goal of the project is to demonstrate data cleaning, preprocessing, feature engineering, and similarity-based recommendation, which are core skills in data science and applied machine learning.
 
-🗂️ Dataset
+### 🗂️ Dataset
 
 Source: Kaggle – TMDB 5000 Movies Dataset
 
@@ -18,7 +18,7 @@ tmdb_5000_credits.csv
 
 Size: ~5000 movies
 
-⚙️ Methodology
+### ⚙️ Methodology
 1. Data Cleaning & Preprocessing
 
 Merged movie metadata and credits datasets
@@ -55,7 +55,7 @@ Calculated cosine similarity between movie vectors
 
 Recommended top similar movies based on similarity scores
 
-🧠 Recommendation Logic
+### 🧠 Recommendation Logic
 
 Given a movie title:
 
@@ -67,7 +67,7 @@ Rank movies by similarity
 
 Return top-N most similar movies
 
-🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 Python
 
@@ -97,7 +97,7 @@ Movie-Recommender-System/
 │
 ├── README.md
 
-🎯 Learning Outcomes
+### 🎯 Learning Outcomes
 
 Hands-on experience with real-world data cleaning
 
@@ -107,7 +107,7 @@ Feature engineering for NLP-style tasks
 
 Similarity computation using vector space models
 
-🚀 Future Improvements
+### 🚀 Future Improvements
 
 Add collaborative filtering
 
