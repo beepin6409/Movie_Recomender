@@ -1,4 +1,4 @@
-📽️ Movie Recommender System (Content-Based)
+# 📽️ Movie Recommender System (Content-Based)
 📌 Project Overview
 
 This project implements a content-based movie recommender system using the TMDB 5000 Movies dataset from Kaggle.
